@@ -1,0 +1,50 @@
+{
+    "name": "Domainbox",
+    "description": "Founded in 2011, Domainbox is the complete domain reseller package. Want to become a domain registrar and resell domain names, or take control and consolidate all your domains to one central location? Start today with Domainbox!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1048-domainbox.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "domains",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/domainbox\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Domainbox",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1048-domainbox.jpg",
+            "humanURL": "http:\/\/www.domainbox.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/domainbox-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "info@domainbox.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@domainbox.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/domainbox"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.domainbox.com"
+        }
+    ]
+}
